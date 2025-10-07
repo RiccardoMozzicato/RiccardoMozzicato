@@ -32,4 +32,4 @@ My work spans from artificial intelligence and data engineering to modern web an
 **🌍 GeoControl**: Environmental monitoring system for real-time data analysis
 
 ## 📫 Contatti!
-📧 Email: mozzicatoriccardo@gmail.com
+**📧 Email**: mozzicatoriccardo@gmail.com
