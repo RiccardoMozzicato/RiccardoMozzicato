@@ -30,3 +30,6 @@ My work spans from artificial intelligence and data engineering to modern web an
 **🃏 Misfortune Game**: Strategic card game with demo and authenticated versions
 
 **🌍 GeoControl**: Environmental monitoring system for real-time data analysis
+
+## 📫 Contatti!
+📧 Email: mozzicatoriccardo@gmail.com
