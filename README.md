@@ -16,12 +16,16 @@ My work spans from artificial intelligence and data engineering to modern web an
 ---
 ### 🛠️ Tech Stack
 **Languages:** Python • JavaScript • TypeScript • C++ • Rust • Kotlin • SQL
+
 **Frameworks & Tools:** React • Node.js • Spark • Git • Linux
+
 **AI & Data:** PyTorch • TensorFlow • NumPy • Pandas • Scikit-learn
 
 ---
 ### 🌟 Featured Projects
 
-**🦀 Ruggine**: Real-time chat application built with Rust, WebSockets, and Redis
+**🦀 Ruggine**: Real-time chat application built with Rust, React, and Typescript
+
 **🃏 Misfortune Game**: Strategic card game with demo and authenticated versions
+
 **🌍 GeoControl**: Environmental monitoring system for real-time data analysis
