@@ -29,7 +29,7 @@ I build **cloud-native, event-driven backends** and the frontends on top of them
 
 ## 💼 Experience
 
-**Software Engineer — Tonicminds** · *Observability for an AI document-intelligence platform*
+**Software Engineer** · *Observability for an AI document-intelligence platform*
 End-to-end distributed tracing across Kotlin and Python services over Kafka, Prometheus metrics and Grafana dashboards,
 and LLM monitoring and evaluation (LLM-as-a-judge) with Langfuse.
 
