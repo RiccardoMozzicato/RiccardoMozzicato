@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 I'm a **Computer Engineer** with a 🎓 **Master's degree in Computer Engineering (Artificial Intelligence and Data Analytics)**
-from Politecnico di Torino, working as a software engineer on **observability for AI platforms**.
+from Politecnico di Torino.
 
 I build **cloud-native, event-driven backends** and the frontends on top of them — and I like making distributed systems
 **observable**: tracing, metrics and logs that tell you what a pipeline of microservices and LLM calls is actually doing.
