@@ -22,7 +22,7 @@ I build **cloud-native, event-driven backends** and the frontends on top of them
 |---|---|---|
 | 🚆 **EuroTransit** — [application](https://github.com/RiccardoMozzicato/eurotransit-application) · [platform](https://github.com/RiccardoMozzicato/eurotransit-platform) | Train-ticket marketplace on **Azure AKS**: async Kafka saga with outbox + Debezium CDC, PayPal payments, GitOps with Argo CD, canary & blue/green releases, SLOs and chaos experiments | Kotlin · Spring Boot · Kafka · React · Kubernetes · Argo CD |
 | 📁 **[TusFlow](https://github.com/RiccardoMozzicato/TusFlow)** | Document portal with resumable uploads (TUS), AI metadata enrichment and a streaming **RAG chat**, fully instrumented with Grafana LGTM + Langfuse | Kotlin · Spring AI · Kafka · Keycloak · React |
-| 🚗 **[Anomaly Segmentation for Road Scenes](https://github.com/RiccardoMozzicato/Anomaly-Segmentation-for-Road-Scenes)** | Detecting unexpected obstacles in driving scenes: Outlier Exposure fine-tuning of a ViT-based segmenter (EoMT) — up to **+46 AUPRC** on Fishyscapes | Python · PyTorch · Lightning |
+| 🚗 **[Anomaly Segmentation for Road Scenes](https://github.com/RiccardoMozzicato/Anomaly-Segmentation-for-Road-Scenes)** | Detecting unexpected obstacles in driving scenes: Outlier Exposure fine-tuning of a ViT-based segmenter (EoMT) | Python · PyTorch · Lightning |
 | 🌍 **[GeoControl](https://github.com/RiccardoMozzicato/GeoControl)** | Environmental monitoring system backend | TypeScript · TypeORM |
 | 🃏 **[Misfortune Game](https://github.com/RiccardoMozzicato/Misfortune-Game-Web-App-1)** | Strategic card game web app with demo and authenticated versions | JavaScript · React |
 | 🦀 **Ruggine** | Real-time chat application | Rust · React · TypeScript |
